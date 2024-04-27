@@ -43,7 +43,7 @@ function App() {
             <a
               href={github}
               aria-label="Github Profile"
-              target="_blank"
+              target="https://github.com/Learningkid8779"
               rel="noreferrer"
             >
               <svg className="icon icon-github">
@@ -57,7 +57,7 @@ function App() {
           <Image
             id="avatar"
             src={
-              "https://cdn.discordapp.com/avatars/" +
+              "https://cdn.discordapp.com/avatars/1054947224381030581/a_43b2041b2889e1d3638c5a9d0d1b7c65.gif" +
               status.discord_user.id +
               "/" +
               status.discord_user.avatar
@@ -97,7 +97,7 @@ function App() {
                 borderRadius: "10px",
                 margin: "10px",
               }}
-              src={`https://lanyard.mertushka.pw/user/${status.discord_user.id}?background=false&title=false&mode=iframe`}
+              src={`https://lanyard.sozen.pw/user/${status.discord_user.id}?background=false&title=false&mode=iframe`}
               width="50%"
               height="144px"
             ></iframe>

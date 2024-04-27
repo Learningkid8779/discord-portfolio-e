@@ -1,20 +1,17 @@
 const experience = [
   {
     date: "2021",
-    title: "haxball.js",
+    title: "Water Network",
     value:
-      "I coded a native Haxball Headless Host API with Node.js for the online 2D soccer game haxball.com",
+      "I coded and devved a Mc Server called Water Network",
   },
   {
     date: "2022",
     title: "Personal Website",
-    value: "Coded this website with NextJS 13!",
+    value: "Coded this website with JS",
   },
   {
-    date: "2021 - Present",
-    title: "Project G",
-    value:
-      "I actively develop a private & closed source project since 2021, with 100+ customers and roughly 800+ members.",
+    
   },
 ];
 

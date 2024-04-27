@@ -1,31 +1,31 @@
 const skills = [
   {
     title: "Node.JS",
-    value: "100%",
-  },
-  {
-    title: "HTML & CSS & JavaScript",
-    value: "90%",
-  },
-  {
-    title: "C#",
-    value: "90%",
-  },
-  {
-    title: "Python",
-    value: "50%",
-  },
-  {
-    title: "Rust",
-    value: "50%",
-  },
-  {
-    title: "Java",
     value: "40%",
   },
   {
-    title: "Flutter",
+    title: "HTML & CSS & JavaScript",
+    value: "95%",
+  },
+  {
+    title: "C#",
     value: "30%",
+  },
+  {
+    title: "Python",
+    value: "80%",
+  },
+  {
+    title: "Rust",
+    value: "20%",
+  },
+  {
+    title: "Java",
+    value: "60%",
+  },
+  {
+    title: "Flutter",
+    value: "10%",
   },
 ];
 
